@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    position: center;
+    background-color: aquamarine;
+}
+
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin: 0px; 
+    position: center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 10px;
+    margin-top: 160px;
+    box-shadow: 5px 5px 9px darkslateblue;
+
+}
